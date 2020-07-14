@@ -1,0 +1,7 @@
+br\edu\infnet\Fornecedores\Fornecedor.class
+br\edu\infnet\Contatos\ContatoDAO.class
+br\edu\infnet\Contatos\ContatoController.class
+br\edu\infnet\Fornecedores\FornecedorController.class
+br\edu\infnet\Contatos\Contato.class
+br\edu\infnet\Fornecedores\FornecedorDAO.class
+br\edu\infnet\FabricaConexao\ConnectionFactory.class
